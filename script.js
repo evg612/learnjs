@@ -177,4 +177,9 @@ console.log(!isChecked || !isClose); // логический оператор И
 
 
 
-/* УРОК 5 */ /* GitHub */
+/* УРОК 5-6 */ /* GitHub */
+// Установить git
+// git status
+// git -A
+// git commit -a -m "третий комит"
+// GitKraken - отоброжение репозитория
